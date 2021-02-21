@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Manga Translator</string>
+    <string name="search">Search</string>
+    <string name="searchActDesc">Search Activity Banner</string>
+    <string name="library">Library</string>
+    <string name="settings">Settings</string>
+    <string name="processing">PROCESSING</string>
+    <string name="titleHeader">title</string>
+    <string name="sourceLabel">Source Language</string>
+    <string name="translateLabel">Translate To</string>
+    <string name="english">ENGLISH</string>
+    <string name="spanish">Spanish</string>
+    <string name="french">French</string>
+    <string name="italian">Italian</string>
+    <string name="setBtn">Set</string>
+    <string name="languageAnnouncement">Coming Soon</string>
+</resources>
